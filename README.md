@@ -2,11 +2,11 @@
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
-Other languages:
+其他语言:
 
 - [English](README.en.md)
-- [Chinese Traditional](README.md)
-- [Chinese Simplifed](https://github.com/fotock/chinese-copywriting-guidelines)
+- [繁体中文](README.md)
+- [简体中文](https://github.com/fotock/chinese-copywriting-guidelines)
 
 -----
 
@@ -295,3 +295,4 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 - [全角和半角 - 维基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引号 - 维基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
 - [疑问惊叹号 - 维基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
+- [标点符号用法 - 教育部](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
