@@ -5,7 +5,7 @@
 其他语言:
 
 - [English](README.en.md)
-- [繁体中文](README.md)
+- [繁體中文](https://github.com/sparanoid/chinese-copywriting-guidelines)
 - [简体中文](https://github.com/fotock/chinese-copywriting-guidelines)
 
 -----
