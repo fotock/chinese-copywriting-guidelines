@@ -1,6 +1,4 @@
 # 中文文案排版指南
-[![devDependency Status](https://david-dm.org/sparanoid/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/sparanoid/chinese-copywriting-guidelines#info=devDependencies)
-[![Built with Almace Scaffolding](https://d349cztnlupsuf.cloudfront.net/amsf-badge.svg)](http://sparanoid.com/note/chinese-copywriting-guidelines/)
 
 统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。
 
@@ -58,7 +56,7 @@ Other languages:
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
+例外：“豆瓣FM”等产品名词，按照官方所定义的格式书写。
 
 ### 中文与数字之间需要增加空格
 
@@ -108,7 +106,7 @@ Other languages:
 
 ### `-ms-text-autospace` 来拯救?
 
-Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 的 CSS 属性可以实现自动为中英文之间增加空白。不过目前并未普及，另外在其他应用场景，例如 OS X、iOS 的用户界面目前并不存在这个特性，所以请继续保持随手加空格的习惯。
+Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/ie/ms531164(v=vs.85).aspx) 的 CSS 属性可以实现自动为中英文之间增加空白。不过目前仅IE可用，在其他应用场景，例如谷歌、安卓、OS X、iOS 的用户界面目前并不存在这个特性，所以请继续保持随手加空格的习惯。
 
 ## 标点符号
 
@@ -118,7 +116,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 德国队竟然战胜了巴西队！
 
-> 她竟然对你说「喵」？！
+> 她竟然对你说“喵”？！
 
 错误：
 
@@ -126,19 +124,19 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 > 德国队竟然战胜了巴西队！！！！！！！！
 
-> 她竟然对你说「喵」？？！！
+> 她竟然对你说“喵”？？！！
 
-> 她竟然对你说「喵」？！？！？？！！
+> 她竟然对你说“喵”？！？！？？！！
 
 ## 全角和半角
 
-不明白什么是全角（全形）与半角（半形）符号？请查看维基百科词条『[全角和半角](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)』。
+不明白什么是全角（全形）与半角（半形）符号？请查看维基百科词条“[全角和半角](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)”。
 
 ### 使用全角中文标点
 
 正确：
 
-> 嗨！你知道嘛？今天前台的小妹跟我说「喵」了哎！
+> 嗨！你知道嘛？今天前台的小妹跟我说“喵”了哎！
 
 > 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
 
@@ -168,13 +166,13 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 正确：
 
-> 乔布斯那句话是怎么说的？「Stay hungry, stay foolish.」
+> 乔布斯那句话是怎么说的？“Stay hungry, stay foolish.”
 
 > 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
 
 错误：
 
-> 乔布斯那句话是怎么说的？「Stay hungry，stay foolish。」
+> 乔布斯那句话是怎么说的？“Stay hungry，stay foolish。”
 
 > 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
 
@@ -244,7 +242,7 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 
 ### 简体中文使用直角引号
 
-用法：
+用法（此种用法常见于繁体排版）：
 
 > 「老师，『有条不紊』的『紊』是什么意思？」
 
